@@ -1,5 +1,7 @@
-<h1><%= @article.title %></h1>
-<p><%= @article.body %></p>
+<h1>Title:<%= @article.title %></h1>
+<p>Body:<%= @article.body %></p>
+<p>Status:<%= @article.status %></p>
+
 
 <%= link_to "Edit", edit_article_path(@article) %> <br>
 <%= link_to "Delete", article_path(@article), method: :delete,
@@ -8,9 +10,7 @@ data: { confirm: "Are you sure?" } %> <br>
 
 
 <h2>Comments</h2>
-
 <%= render @article.comments %>
-
 
 <h2>Add a comment:</h2>
 
