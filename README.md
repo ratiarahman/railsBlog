@@ -1,7 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Blog
 
 Things you may want to cover:
 
@@ -21,4 +18,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+## Rails Routes
+
+![image](https://user-images.githubusercontent.com/25054772/126951869-8459df68-b314-48b2-bef8-627de22718f0.png)
+
