@@ -18,6 +18,10 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* https://guides.spreecommerce.org/developer/
+
+
+
 ## Rails Routes
 
 ![image](https://user-images.githubusercontent.com/25054772/126951869-8459df68-b314-48b2-bef8-627de22718f0.png)
